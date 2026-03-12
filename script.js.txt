@@ -1,0 +1,5 @@
+function comprar(livro){
+
+alert("Você escolheu comprar: " + livro);
+
+}
